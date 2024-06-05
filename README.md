@@ -16,7 +16,7 @@ This repository contains the source code for the Spring Examen project. The proj
 
 ### Build and Run
 
-1. Clone the repository: `git clone https://github.com/malek-labidi/template-spring.git`
+1. Clone the repository: `git clone https://github.com/RaedKharrat/Template-Node-js.git`
 2. Navigate to the project directory: `cd template-spring`
 3. Build the project: `mvn clean install`
 4. Run the application
